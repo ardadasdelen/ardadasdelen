@@ -1,5 +1,4 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 ## I'm a Student 👨‍🎓!
 - 🔭 I'm currently fighting a mysterious person 💕
 - 🌱 I'm learning about life right now ⚙️
@@ -7,19 +6,14 @@
 - 🤔 This is really enjoyable for me 🔥
 - 🥅 2022 Goals: I have access to literally everything now my projects are running smoothly 👌
 - ⚡ Fun fact: I love to fly ✈️, play chess ♟, software 👨‍💻 and cycling 🚴‍♀️
-
  <br>  <br>  <br>  <br>  
- 
 ## ⏲ What we are doing now:
 - I'm developing a project for my websites 🚀
 - I am writing on 2 sites 📃
 - I'm a Programming Teacher 💻
 - I also work as a FreeLancer 🆓
-
 <br />
-
  <br>  <br>  <br>  <br> 
- 
 <hr>
 <h3 align="center">Show me your cards 🔗</h3>
 <br>
@@ -38,33 +32,15 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
  </p>
-
  <br>  <br>  <br>  <br>  
  ## <p align="center">My motion graph 📈
 <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aardadasdelen46&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aardadasdelen46"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aardadasdelen46&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="aardadasdelen46"/>
-
-
-
-
-
  <br>  <br>  <br>  <br>  
-
-
 ### <p align="center">Connect with me 📨
-
-
-
 <p align="center">
-
- <img width="1000px" src="https://user-images.githubusercontent.com/82963164/155765094-fa634589-366a-48bd-9bef-bc850580c781.gif" >
- https://bit.ly/aardadasdelen46
- 
-
-
-[<img align="left" height="500" width="1000" src="https://user-images.githubusercontent.com/82963164/155765094-fa634589-366a-48bd-9bef-bc850580c781.gif" />][instagram]
-
-[instagram]: https://www.instagram.com/
+[<img align="left" height="500" width="1000" src="https://user-images.githubusercontent.com/82963164/155765094-fa634589-366a-48bd-9bef-bc850580c781.gif" />][ar-ya]
+[ar-ya]: https://bit.ly/aardadasdelen46
  <br>  <br>  <br>  <br> 
 <br/>
 
