@@ -45,11 +45,12 @@
  ## <p align="center">My motion graph 📈
  
 <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aardadasdelen46&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aardadasdelen46"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aardadasdelen46&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="aardadasdelen46"/>
+
  
  
+ ## <p align="center"> Contact 📨
  
- 
+  📫 How to reach me: | [**Web**](https://bit.ly/aardadasdelen46)
  
 <br/>
  
