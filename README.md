@@ -52,8 +52,10 @@
  
   <p align="center"> 📫 How to reach me: 🔗 https://bit.ly/aardadasdelen46 🔗
   
-  <br>  <br>  <br>  <br>  
-  
+  <p align="center"><a href="https://www.buymeacoffee.com/aarda"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=aarda&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+   
+  <br>  <br>  <br>  <br> 
+   
   <p align="center"> Copyright 2022 ©️  🔗 https://aardadasdelenn.com/ 🔗
 <br/>
  
