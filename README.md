@@ -39,13 +39,21 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
  </p>
+ 
  <br>  <br>  <br>  <br>  
+ 
  ## <p align="center">My motion graph 📈
+ 
 <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aardadasdelen46&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aardadasdelen46"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aardadasdelen46&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="aardadasdelen46"/>
-
-
+ 
+ 
+ 
+ 
+ 
 <br/>
+ 
+ 
 
 
 
