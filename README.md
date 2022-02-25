@@ -57,7 +57,7 @@
 
 <p align="center">
 
- [<img  alt="gif" width="10px" src="https://user-images.githubusercontent.com/82963164/155765094-fa634589-366a-48bd-9bef-bc850580c781.gif"/>][gif]
+ [<img  alt="gif" width="1000px" src="https://user-images.githubusercontent.com/82963164/155765094-fa634589-366a-48bd-9bef-bc850580c781.gif"/>][gif]
  [gif]: https://bit.ly/aardadasdelen46
  
 
