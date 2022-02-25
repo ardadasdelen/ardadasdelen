@@ -24,6 +24,12 @@
 
  <br>  <br>  <br>  <br> 
  
+ ### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31cfj7jlv5yasnrccj6226reow3e?si=f3b87f96fce04fcc)
+
+---
+  <br>  <br>  <br>  <br> 
 <hr>
 <h3 align="center">Show me your cards 🔗</h3>
 <br>
