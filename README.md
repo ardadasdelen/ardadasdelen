@@ -36,12 +36,8 @@
  ## <p align="center">My motion graph 📈
 <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aardadasdelen46&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aardadasdelen46"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aardadasdelen46&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="aardadasdelen46"/>
- <br>  <br>  <br>  <br>  
-### <p align="center">Connect with me 📨
-<p align="center">
-[<img align="left" height="500" width="1000" src="https://user-images.githubusercontent.com/82963164/155765094-fa634589-366a-48bd-9bef-bc850580c781.gif" />][ar-ya]
-[ar-ya]: https://bit.ly/aardadasdelen46
- <br>  <br>  <br>  <br> 
+
+
 <br/>
 
 
