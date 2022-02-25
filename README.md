@@ -1,4 +1,5 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ## I'm a Student 👨‍🎓!
 - 🔭 I'm currently fighting a mysterious person 💕
 - 🌱 I'm learning about life right now ⚙️
@@ -6,17 +7,23 @@
 - 🤔 This is really enjoyable for me 🔥
 - 🥅 2022 Goals: I have access to literally everything now my projects are running smoothly 👌
 - ⚡ Fun fact: I love to fly ✈️, play chess ♟, software 👨‍💻 and cycling 🚴‍♀️
+
  <br>  <br>  <br>  <br>  
+ 
 ## ⏲ What we are doing now:
 - I'm developing a project for my websites 🚀
 - I am writing on 2 sites 📃
 - I'm a Programming Teacher 💻
 - I also work as a FreeLancer 🆓
+
 <br />
+
  <br>  <br>  <br>  <br> 
+ 
 <hr>
 <h3 align="center">Show me your cards 🔗</h3>
 <br>
+
 <p align="center">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
