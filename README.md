@@ -50,8 +50,11 @@
  
  ## <p align="center"> Contact 📨
  
-  📫 How to reach me: | [**Web**](https://bit.ly/aardadasdelen46)
- 
+  <p align="center"> 📫 How to reach me: 🔗 https://bit.ly/aardadasdelen46 🔗
+  
+  <br>  <br>  <br>  <br>  
+  
+  <p align="center"> Copyright 2022 ©️  🔗 https://aardadasdelenn.com/ 🔗
 <br/>
  
  
