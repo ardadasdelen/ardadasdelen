@@ -8,19 +8,20 @@
 - 🥅 2022 Goals: I have access to literally everything now my projects are running smoothly 👌
 - ⚡ Fun fact: I love to fly ✈️, play chess ♟, software 👨‍💻 and cycling 🚴‍♀️
 
- <br>  <br>  <br>  <br>  <br>  <br>
+ <br>  <br>  <br>  <br>  
  
 ## ⏲ What we are doing now:
-I'm developing a project for my websites 🚀, I am writing on 2 sites 📃.
-I'm a Programming Teacher 💻.
-I also work as a FreeLancer 🆓.
+- I'm developing a project for my websites 🚀
+- I am writing on 2 sites 📃
+- I'm a Programming Teacher 💻
+- I also work as a FreeLancer 🆓
 
 <br />
 
- <br>  <br>  <br>  <br>  <br>  <br>
+ <br>  <br>  <br>  <br> 
  
 <hr>
-<h3 align="center">Show me your cards</h3>
+<h3 align="center">Show me your cards 🔗</h3>
 <br>
 <p align="center">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
@@ -36,39 +37,31 @@ I also work as a FreeLancer 🆓.
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg alt=express width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />
-<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
-<br />
+ </p>
+
+ <br>  <br>  <br>  <br>  
+ ## <p align="center">My motion graph 📈
+<p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aardadasdelen46&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aardadasdelen46"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aardadasdelen46&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="aardadasdelen46"/>
 
 
 
 
 
+ <br>  <br>  <br>  <br>  
 
 
-
-
-
- <br>  <br>  <br>  <br>  <br>  <br>
-
-
-### <p align="center">📩 Connect with me:
+### <p align="center">Connect with me 📨
 
 
 
 <p align="center">
- <a target="_blank" href= https://bit.ly/aardadasdelen46>
-  <img height="25" width="25" src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/pngegg.png" fill="#fff"/>
-  &nbsp;
-  </a>
-</p>
- <br>  <br>  <br>  <br>  <br>  <br>
+  https://bit.ly/aardadasdelen46
+  
+<img align="right"  src="https://user-images.githubusercontent.com/82963164/155765094-fa634589-366a-48bd-9bef-bc850580c781.gif" width="" height="" />
+
+
+ <br>  <br>  <br>  <br> 
 <br/>
 
 
