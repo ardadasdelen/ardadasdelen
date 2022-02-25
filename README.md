@@ -57,12 +57,14 @@
 
 <p align="center">
 
- [ <gif width="1000px" src="https://user-images.githubusercontent.com/82963164/155765094-fa634589-366a-48bd-9bef-bc850580c781.gif" > ][aarda]
- [aarda]: https://bit.ly/aardadasdelen46
+ <img width="1000px" src="https://user-images.githubusercontent.com/82963164/155765094-fa634589-366a-48bd-9bef-bc850580c781.gif" >
+ https://bit.ly/aardadasdelen46
  
 
 
+[<img align="left" height="500" width="1000" src="https://user-images.githubusercontent.com/82963164/155765094-fa634589-366a-48bd-9bef-bc850580c781.gif" />][instagram]
 
+[instagram]: https://www.instagram.com/
  <br>  <br>  <br>  <br> 
 <br/>
 
