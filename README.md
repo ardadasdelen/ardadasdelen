@@ -67,7 +67,7 @@
    
   <br>  <br>  <br>  <br> 
    
-  <p align="center"> Copyright 2022 ©️  🔗 https://aardadasdelenn.com/ 🔗
+  <p align="center"> Copyright 2022 ©️  🔗 https://aarda.bio.link 🔗
 <br/>
  
  
