@@ -25,11 +25,12 @@
  <br>  <br>  <br>  <br> 
  
  ### Now Playing 🎧
+ 
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31cfj7jlv5yasnrccj6226reow3e?si=f3b87f96fce04fcc)
 
----
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cfj7jlv5yasnrccj6226reow3e&cover_image=true&theme=novatorem&bar_color=09ff00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   <br>  <br>  <br>  <br> 
+  
 <hr>
 <h3 align="center">Show me your cards 🔗</h3>
 <br>
