@@ -16,7 +16,7 @@
  
 ## ⏲ What we are doing now:
 - I'm developing a project for my websites 🚀
-- I am writing on 2 sites 📃
+- I am writing on 6 sites 📃
 - I'm a Programming Teacher 💻
 - I also work as a FreeLancer 🆓
 
