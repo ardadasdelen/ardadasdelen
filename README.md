@@ -1,4 +1,4 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <p align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -24,18 +24,18 @@
 
  <br>  <br>  <br>  <br> 
  
- ### Now Playing 🎧
+ ## Now Playing 🎧
  
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cfj7jlv5yasnrccj6226reow3e&cover_image=true&theme=novatorem&bar_color=09ff00&bar_color_cover=false)](https://open.spotify.com/playlist/1NcNJP3EryxnIROBaUdUQy?si=ee84502b79114fcb)
   <br>  <br>  <br>  <br> 
   
-<hr>
-<h3 align="center">Show me your cards 🔗</h3>
+
+## Show me your cards 🔗
 <br>
 
-<p align="center">
+
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
@@ -53,30 +53,26 @@
  
  <br>  <br>  <br>  <br>  
  
- ## <p align="center">My motion graph 📈
+ ## My motion graph 📈
  
-<p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aardadasdelen46&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aardadasdelen46"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aardadasdelen46&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aardadasdelen46"/>
 
- 
+   <br>  <br>  <br>  <br> 
+   
  ## Supporters
 [![Stargazers repo roster for @aardadasdelen46/aardadasdelen46](https://reporoster.com/stars/aardadasdelen46/aardadasdelen46)](https://github.com/aardadasdelen46/aardadasdelen46/stargazers)
 
+     
+  <br>  <br>  <br>  <br> 
  
- 
- ## <p align="center"> Contact 📨
- 
-  <p align="center"> 📫 How to reach me: 🔗 https://bit.ly/aardadasdelen46 🔗
-  
-  <p align="center"><a href="https://www.buymeacoffee.com/aarda"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=aarda&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
-   
+ ## Contact 📨
+ Copyright 2022 ©️ by https://aarda.bio.link
+    
   <br>  <br>  <br>  <br> 
    
-  <p align="center"> Copyright 2022 ©️  🔗 https://aarda.bio.link 🔗
+ <p align="center"><a href="https://www.buymeacoffee.com/aarda"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=aarda&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 <br/>
- 
- 
-
-
 
 
 
