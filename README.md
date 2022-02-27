@@ -3,18 +3,19 @@
  ### AboutMe.js
 
 ```javascript
-const amado = {
+const ArdA = {
     pronouns: "he" | "him",
-    code: [Javascript, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
-    technologies: {
-        frontEnd: {
+    code: [Java, Html, Css, Js, Py, Php, .NET],
+    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee", "front-end", "back-end"],
+    technologies: 
             css: ["bootstrap", "materialize"]
         },
         backEnd: {
-            js: ["firebase", "node"]
+            js: ["firebase", "node", "curl", "wget"]
         }        
     }
+ App: {
+ devolop and hack: ["termux", "sublime-text", "kali", "linux", "windows", "tor", "kaspersky", "eset", "apk-editor-pro", "github", "host", "ngrok", ]
 };
 ```
 
