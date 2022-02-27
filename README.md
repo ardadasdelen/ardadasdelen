@@ -5,7 +5,7 @@
 ```javascript
 const ArdA = {
     pronouns: "he" | "him",
-    code: [Java, Html, Css, Js, Py, Php, .NET],
+    code: [Java, Html, Css, Js, Py, Php],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee", "front-end", "back-end"],
     technologies: 
             css: ["bootstrap", "materialize"]
