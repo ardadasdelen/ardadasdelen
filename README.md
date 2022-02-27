@@ -15,7 +15,7 @@ const ArdA = {
         }        
     }
  App: {
- devolop and hack: ["termux", "sublime-text", "kali", "linux", "windows", "tor", "kaspersky", "eset", "apk-editor-pro", "github", "host", "ngrok", ]
+ devolop and hack: ["termux", "sublime-text", "kali", "linux", "windows", "tor", "kaspersky", "eset", "apk-editor-pro", "github", "host", "ngrok"]
 };
 ```
 
