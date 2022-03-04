@@ -48,7 +48,7 @@ const ArdA = {
  
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cfj7jlv5yasnrccj6226reow3e&cover_image=true&theme=novatorem&bar_color=09ff00&bar_color_cover=false)](https://open.spotify.com/playlist/1NcNJP3EryxnIROBaUdUQy?si=ee84502b79114fcb)
+
   <br>  <br>  <br>  <br> 
   
 
