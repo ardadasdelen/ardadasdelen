@@ -48,7 +48,7 @@ const ArdA = {
  
 
 
-
+[![Spotify en son veya aktif olarak dinlediğim şarkı (güncel)](https://spotify-github-profile.vercel.app/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=true&theme=novatorem&bar_color=1666d0&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=su8ifhnt52og805ngstk1hcej&redirect=true)
   <br>  <br>  <br>  <br> 
   
 
