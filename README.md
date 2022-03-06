@@ -4,14 +4,14 @@
 
 ```javascript
 const ArdA = {
-    pronouns: "he" | "him",
+    pronouns: "he" - "him",
     code: [Java, Html, Css, Js, Py, Php],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee", "front-end", "back-end"],
-    technologies: 
-            css: ["bootstrap", "materialize"]
+    technologies:
+            ["bootstrap", "materialize"]
         },
         backEnd: {
-            js: ["firebase", "node", "curl", "wget"]
+            ["firebase", "node", "curl", "wget"]
         }        
     }
  App: {
