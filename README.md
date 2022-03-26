@@ -1,10 +1,5 @@
 ### <p align="center">**Hello** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
- <div align="center">
-    <a href="https://discord.com/users/792396763516108821">
-  <img src="https://lanyard-profile-readme.vercel.app/api/503285107331825664"></a>
-</div>
- 
  ### AboutMe.js
 
 ```javascript
