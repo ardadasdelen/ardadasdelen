@@ -1,24 +1,6 @@
 ### <p align="center">**Hello** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
- ### AboutMe.js
 
-```javascript
-const ArdA = {
-    pronouns: "he" - "him",
-    code: [Java, Html, Css, Js, Py, Php],
-    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee", "front-end", "back-end"],
-    technologies:
-            ["bootstrap", "materialize"]
-        },
-        backEnd: {
-            ["firebase", "node", "curl", "wget"]
-        }        
-    }
- App: {
- devolop and hack: ["termux", "sublime-text", "kali", "linux", "windows",
- "tor", "kaspersky", "eset", "apk-editor-pro", "github", "host", "ngrok"]
-};
-```
 
 
 
@@ -65,6 +47,13 @@ const ArdA = {
 
    
  <p align="center"><a href="https://www.buymeacoffee.com/aarda"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=aarda&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  
+  
+  
+  
+  
+  
+  
 
 <p align="center">Check out my repos ⬇️
 
