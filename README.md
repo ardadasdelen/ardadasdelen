@@ -80,7 +80,7 @@ const ArdA = {
    <br>  <br>  <br>  <br> 
    
  ## Supporters
-[![Stargazers repo roster for @aardadasdelenn/aardadasdelenn](https://reporoster.com/stars/aardadasdelen46/aardadasdelen46)](https://github.com/aardadasdelen46/aardadasdelen46/stargazers)
+[![Stargazers repo roster for @aardadasdelenn/aardadasdelenn](https://reporoster.com/stars/aardadasdelenn/aardadasdelenn)](https://github.com/aardadasdelen46/aardadasdelen46/stargazers)
 
      
   <br>  <br>  <br>  <br> 
