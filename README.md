@@ -56,12 +56,12 @@ const ArdA = {
  
  ## My motion graph 📈
  
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aardadasdelenm&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aardadasdelenn"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aardadasdelenn&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aardadasdelenn"/>
 
    <br>  <br>  <br>  <br> 
    
  ## Supporters
-[![Stargazers repo roster for @aardadasdelenn/aardadasdelenn](https://reporoster.com/stars/aardadasdelenn/aardadasdelenn)](https://github.com/aardadasdelen46/aardadasdelen46/stargazers)
+[![Stargazers repo roster for @aardadasdelenn/aardadasdelenn](https://reporoster.com/stars/aardadasdelenn/aardadasdelenn)](https://github.com/aardadasdelenn/aardadasdelenn/stargazers)
 
      
   <br>  <br>  <br>  <br> 
