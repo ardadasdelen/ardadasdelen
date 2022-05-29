@@ -75,18 +75,18 @@ const ArdA = {
  
  ## My motion graph 📈
  
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aardadasdelen46&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aardadasdelen46"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aardadasdelenm&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aardadasdelenn"/>
 
    <br>  <br>  <br>  <br> 
    
  ## Supporters
-[![Stargazers repo roster for @aardadasdelen46/aardadasdelen46](https://reporoster.com/stars/aardadasdelen46/aardadasdelen46)](https://github.com/aardadasdelen46/aardadasdelen46/stargazers)
+[![Stargazers repo roster for @aardadasdelenn/aardadasdelenn](https://reporoster.com/stars/aardadasdelen46/aardadasdelen46)](https://github.com/aardadasdelen46/aardadasdelen46/stargazers)
 
      
   <br>  <br>  <br>  <br> 
  
  ## Contact 📨
- Copyright 2022 ©️ by https://aarda.bio.link
+ Copyright 2022 ©️ by https://bit.ly/ardadasdelen
     
   <br>  <br>  <br>  <br> 
    
