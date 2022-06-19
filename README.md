@@ -29,8 +29,7 @@ ardadasdelen@github
 Ben, bulduğu her fırsatta kendini bu alanda geliştirmeye 
 çalışan bir yazılım geliştiricisiyim. Çoğu meslektaşım 
 gibi programlamayı bir iş olarak görmeyen, yaşam tarzı 
-haline getirmiş biriyim. Kod yazmadığım zamanlarda beni 
-[müzik](https://open.spotify.com/playlist/5eDSCFxhEJLtrHHoEUUuKA) dinlerken bulacaksınız.
+haline getirmiş biriyim.
 ```
 
 <p align="left">
