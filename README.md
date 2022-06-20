@@ -28,7 +28,6 @@ sudo bit.ly/ardadasdelen
 ardadasdelen@github:~$ ./contact.sh
 sudo bit.ly/ardadasdelen
 ```
-console
 ***[İletişime Geç!](https://bit.ly/ardadasdelen)***
 
 [![spotifyda ne dinliyorum?](https://spotify-github-profile.vercel.app/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=true&theme=novatorem&bar_color=ae00ff&bar_color_cover=false)](https://open.spotify.com/user/su8ifhnt52og805ngstk1hcej)
