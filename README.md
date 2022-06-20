@@ -1,4 +1,7 @@
 Ziyaretçi Sayacı  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardadasdelen.ardadasdelen)](https://bit.ly/ardadasdelen)
+
+<a align="center"><img src="https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/main/animation.gif" width="35%"></a>
+
 ```console
 ardadasdelen@github:~$ ./welcome.sh
 ```
@@ -29,6 +32,15 @@ sudo bit.ly/ardadasdelen
 ardadasdelen@github:~$ ./contact.sh
 sudo bit.ly/ardadasdelen
 ```
-***[İletişime Geç!](https://bit.ly/ardadasdelen)***
-
 [![spotifyda ne dinliyorum?](https://spotify-github-profile.vercel.app/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=true&theme=novatorem&bar_color=ae00ff&bar_color_cover=false)](https://open.spotify.com/user/su8ifhnt52og805ngstk1hcej)
+
+
+
+#
+<p align="center">
+  <a href="https://bit.ly/ardadasdelen">
+    <img src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardadasdelen&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=ardadasdelen&theme=react-dark" />
+  </a>
+</p>
