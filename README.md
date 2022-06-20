@@ -1,20 +1,8 @@
 ```console
 ardadasdelen@github:~$ ./welcome.sh
 ```
-
 ```
- _____________________________________
-< Github sayfama hoşgeldin! >
- ------------------------------------- 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-
-```
-ardadasdelen@github
+ardadasdelen@github:~$ ./about.sh
 -------------------------
 - Anime
 - Tasarım
@@ -29,35 +17,11 @@ Ben, bulduğu her fırsatta kendini bu alanda geliştirmeye
 gibi programlamayı bir iş olarak görmeyen, yaşam tarzı 
 haline getirmiş biriyim.
 ```
-
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#917b88" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/917b88.png" width="25" height="20" /><img alt="#fdfef6" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/fdfef6.png" width="25" height="20" /><img alt="#91bebb" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/91bebb.png" width="25" height="20" /><img alt="#feb2bf" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/feb2bf.png" width="25" height="20" /><img alt="#95e3ed" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/95e3ed.png" width="25" height="20" />
-</p>
-
 ```console
-ardadasdelen@github:~$ sudo echo "* * * * * /usr/local/bin/aarda" >> /tmp/aarda$$
+ardadasdelen@github:~$ sudo echo "*****/usr/local/bin/aarda/ortam-sanal-ama-suç-gerçek" >> /tmp/aarda$$
 ```
-
+```console
+ardadasdelen@github:~$ ./contact.sh
+sudo https://bit.ly/ardadasdelen
 ```
-[sudo] Password for ardadasdelen:
-
-Arda bugs in code...
-                              
-       \`*-.    [me]              
-        )  _`-.                 
-       .  : `. .                
-       : _   '  \               
-       ; *` _.   `*-._          
-       `-.-'          `-.       
-         ;       `       `.     
-         :.       .        \    
-         . \  .   :   .-'   .   
-         '  `+.;  ;  '      :   
-         :  '  |    ;       ;-. 
-         ; '   : :`-:     _.`* ;
-[bug] .*' /  .*' ; .*`- +'  `*' 
-      `*-*   `*-*  `*-*'
-```
-
 [![spotifyda ne dinliyorum?](https://spotify-github-profile.vercel.app/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=true&theme=novatorem&bar_color=ae00ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
