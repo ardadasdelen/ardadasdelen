@@ -1,8 +1,8 @@
 Ziyaretçi Sayacı  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardadasdelen.ardadasdelen)](https://bit.ly/ardadasdelen)
-```console
+```csharp
 ardadasdelen@github:~$ ./welcome.sh
 ```
-```console
+```csharp
 ardadasdelen@github:~$ ./about.sh
 -----------------------------------------------------------------
 Ben, bulduğu her fırsatta kendini bu alanda geliştirmeye 
@@ -11,10 +11,10 @@ gibi programlamayı bir iş olarak görmeyen, yaşam tarzı
 haline getirmiş biriyim.
 -----------------------------------------------------------------
 ```
-```console
+```csharp
 ardadasdelen@github:~$ sudo echo "*****/usr/local/bin/aarda/ortam-sanal-ama-suç-gerçek" >> /tmp/aarda$$
 ```
-```console
+```csharp
 ardadasdelen@github:~$ ./contact.sh
 >> bit.ly/ardadasdelen
 ```
