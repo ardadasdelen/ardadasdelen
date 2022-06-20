@@ -1,4 +1,7 @@
-Ziyaretçi Sayacı  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardadasdelen.ardadasdelen)](https://bit.ly/ardadasdelen)
+<p align="center">
+  Ziyaretçi Sayacı  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardadasdelen.ardadasdelen)](https://bit.ly/ardadasdelen)
+  </p>
+  #
 ```console
 ardadasdelen@github:~$ ./welcome.sh
 ```
