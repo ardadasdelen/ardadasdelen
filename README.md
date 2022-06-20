@@ -1,7 +1,7 @@
 ```console
 ardadasdelen@github:~$ ./welcome.sh
 ```
-```
+```console
 ardadasdelen@github:~$ ./about.sh
 -------------------------
 - Anime
@@ -22,6 +22,13 @@ ardadasdelen@github:~$ sudo echo "*****/usr/local/bin/aarda/ortam-sanal-ama-suç
 ```
 ```console
 ardadasdelen@github:~$ ./contact.sh
-sudo https://bit.ly/ardadasdelen
+sudo bit.ly/ardadasdelen
 ```
-[![spotifyda ne dinliyorum?](https://spotify-github-profile.vercel.app/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=true&theme=novatorem&bar_color=ae00ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+```console
+ardadasdelen@github:~$ ./contact.sh
+sudo bit.ly/ardadasdelen
+```
+console
+***[İletişime Geç!](https://bit.ly/ardadasdelen)***
+
+[![spotifyda ne dinliyorum?](https://spotify-github-profile.vercel.app/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=true&theme=novatorem&bar_color=ae00ff&bar_color_cover=false)](https://open.spotify.com/user/su8ifhnt52og805ngstk1hcej)
