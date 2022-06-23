@@ -1,4 +1,4 @@
-Ziyaretçi Sayacı  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardadasdelen.ardadasdelen)](https://bit.ly/ardadasdelen)
+Ziyaretçi Sayacı  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardadasdelen.ardadasdelen)](https://bit.ly/ardadasdelen) [Eklenme tarihi 20.06.2022]
 ```csharp
 ardadasdelen@github:~$ ./welcome.sh
 ```
