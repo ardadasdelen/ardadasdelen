@@ -1,4 +1,3 @@
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardadasdelen.ardadasdelen)](https://bit.ly/ardadasdelen)
 ```csharp
 ardadasdelen@github:~$ ./welcome.sh
 ```
@@ -47,7 +46,4 @@ ardadasdelen@github:~$ ./contact.sh
 
 
 ![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
-
-<br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=ardadasdelen" alt="ardadasdelen"/> </p>  </p>
-<br>
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardadasdelen.ardadasdelen)](https://bit.ly/ardadasdelen)
