@@ -1,3 +1,4 @@
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardadasdelen.ardadasdelen)](https://bit.ly/ardadasdelen)
 ```csharp
 ardadasdelen@github:~$ ./welcome.sh
 ```
@@ -19,8 +20,6 @@ ardadasdelen@github:~$ ./contact.sh
 ```
 [![spotifyda ne dinliyorum?](https://spotify-github-profile.vercel.app/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=true&theme=novatorem&bar_color=ae00ff&bar_color_cover=false)](https://open.spotify.com/user/su8ifhnt52og805ngstk1hcej)
 
-
-
 #
 <p align="center">
   <a href="https://bit.ly/ardadasdelen">
@@ -29,8 +28,4 @@ ardadasdelen@github:~$ ./contact.sh
 <br>
 </p>
 
-
-
 ![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
-    <br>
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardadasdelen.ardadasdelen)](https://bit.ly/ardadasdelen)
