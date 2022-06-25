@@ -25,7 +25,7 @@ ardadasdelen@github:~$ ./contact.sh
 #
 <p align="center">
   <a href="https://bit.ly/ardadasdelen">
-    <img src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&theme=github_dark&hide_border=true" />
+
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardadasdelen&theme=github-dark-blue&hide_border=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=ardadasdelen&theme=react-dark" />
   </a>
@@ -47,7 +47,7 @@ ardadasdelen@github:~$ ./contact.sh
 |![](https://github-readme-stats.vercel.app/api?username=ardadasdelen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardadasdelen&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=ardadasdelen&theme=redical)
+
 
 ![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
 
