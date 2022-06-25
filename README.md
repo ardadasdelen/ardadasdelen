@@ -25,8 +25,6 @@ ardadasdelen@github:~$ ./contact.sh
 #
 <p align="center">
   <a href="https://bit.ly/ardadasdelen">
-
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardadasdelen&theme=github-dark-blue&hide_border=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=ardadasdelen&theme=react-dark" />
   </a>
 </p>
