@@ -25,25 +25,12 @@ ardadasdelen@github:~$ ./contact.sh
 <p align="center">
   <a href="https://bit.ly/ardadasdelen">
     <img width="500" src="https://metrics.lecoq.io/ardadasdelen" alt="Github Metrics">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ardadasdelen&theme=react-dark" />
-
-
-
-
-
-
-
-
-
 <p align="center">
 <br>
 </p>
-<br>
-
-|![](https://github-readme-stats.vercel.app/api?username=ardadasdelen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardadasdelen&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
 
 
 
 ![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
+    <br>
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardadasdelen.ardadasdelen)](https://bit.ly/ardadasdelen)
