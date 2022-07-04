@@ -25,7 +25,7 @@ ardadasdelen@github:~$ ./contact.sh
 #
 <p align="center">
   <a href="https://bit.ly/ardadasdelen">
-    <img width="500" src="https://metrics.lecoq.io/ardadasdelen" alt="Github Metrics">
+    <img width="500" src="https://metrics.lecoq.io/ardadasdelen" alt="Error! Hacked by $">
 <p align="center">
 <br>
 </p>
