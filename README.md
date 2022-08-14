@@ -34,6 +34,4 @@ ardadasdelen@github:~$ ./contact.sh
 
 <br />
 
-<a href="https://github.com/ardadasdelen"><img src="https://activity-graph.herokuapp.com/graph?username=ardadasdelen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/><a href="https://github.com/ardadasdelen"></a>
-
 ![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
