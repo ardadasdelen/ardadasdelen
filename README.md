@@ -1,10 +1,4 @@
 ```csharp
-ardadasdelen@github:~$ ./welcome.sh 
-```
-```csharp
-ardadasdelen@github:~$ ./about.sh (not found)
-```
-```csharp
 ardadasdelen@github:~$ sudo echo "*****/usr/local/bin/aarda/ortam sanal suç gerçek" >>/tmp/aarda$$
 ```
 ```csharp
