@@ -1,21 +1,15 @@
 ```csharp
-ardadasdelen@github:~$ ./welcome.sh
+ardadasdelen@github:~$ ./welcome.sh 
 ```
 ```csharp
-ardadasdelen@github:~$ ./about.sh
------------------------------------------------------------------
-Ben, bulduğu her fırsatta kendini bu alanda geliştirmeye 
-çalışan bir yazılım geliştiricisiyim. Çoğu meslektaşım 
-gibi programlamayı bir iş olarak görmeyen, yaşam tarzı 
-haline getirmiş biriyim.
------------------------------------------------------------------
+ardadasdelen@github:~$ ./about.sh Hakkımda söylenecek bişey yok.
 ```
 ```csharp
 ardadasdelen@github:~$ sudo echo "*****/usr/local/bin/aarda/ortam-sanal-ama-suç-gerçek" >> /tmp/aarda$$
 ```
 ```csharp
 ardadasdelen@github:~$ ./contact.sh
->>https://bit.ly/ardadasdelen
+>>https://bit.ly/ardadasdelen (Sadece ama sadece buradan iletişime geçin :))
 ```
 #
 
