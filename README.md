@@ -2,14 +2,14 @@
 ardadasdelen@github:~$ ./welcome.sh 
 ```
 ```csharp
-ardadasdelen@github:~$ ./about.sh Hakkımda söylenecek bişey yok.
+ardadasdelen@github:~$ ./about.sh (not found)
 ```
 ```csharp
-ardadasdelen@github:~$ sudo echo "*****/usr/local/bin/aarda/ortam-sanal-ama-suç-gerçek" >> /tmp/aarda$$
+ardadasdelen@github:~$ sudo echo "*****/usr/local/bin/aarda/ortam sanal suç gerçek" >>/tmp/aarda$$
 ```
 ```csharp
 ardadasdelen@github:~$ ./contact.sh
->>https://bit.ly/ardadasdelen (Sadece ama sadece buradan iletişime geçin :))
+>> https://bit.ly/ardadasdelen
 ```
 #
 
@@ -24,8 +24,9 @@ ardadasdelen@github:~$ ./contact.sh
 
 <a href="https://github.com/ardadasdelen"><img src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&count_private=true&theme=react&bg_color=151515"/></a>
 
-<p><a href="https://github.com/ardadasdelen"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardadasdelen&theme=black-ice"/></p>
+
 
 <br />
 
 ![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
+
