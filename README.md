@@ -21,6 +21,4 @@ ardadasdelen@github:~$ ./contact.sh
 
 
 <br />
-
-![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
-
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
