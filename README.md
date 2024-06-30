@@ -20,3 +20,5 @@
   <a href="https://bit.ly/ardadasdelen">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="luzia" />
 </p>
+
+<h3 align="center"> © 2024</h3>
