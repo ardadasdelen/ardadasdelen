@@ -5,4 +5,4 @@ Hello from my desk<img align="right" src="https://komarev.com/ghpvc/?username=ar
 
 # 
 <br />
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="???" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="luzia" />
