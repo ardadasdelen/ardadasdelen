@@ -1,7 +1,7 @@
 <h1 align="center">Arda Daşdelen</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ardadasdelen" alt="aarda profile views"></a>
+  <img src="https://komarev.com/ghpvc/?username=ardadasdelen" alt="aarda profile views"><a href="https://bit.ly/ardadasdelen"></a>
   <a href="https://bit.ly/ardadasdelen">
     <img src="https://wakatime.com/badge/user/a5a7e9a1-f323-41da-a78c-cef00e6d45a5.svg" alt="Waka Time" />
   </a>
