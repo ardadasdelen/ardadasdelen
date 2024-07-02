@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/su8ifhnt52og805ngstk1hcej?for-github-profile-widget">
+  <a href="https://open.spotify.com/user/su8ifhnt52og805ngstk1hcej">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=su8ifhnt52og805ngstk1hcej&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="aarda-spotify-for-you">
   </a>
