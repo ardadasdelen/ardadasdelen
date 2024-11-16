@@ -41,7 +41,7 @@ Check out my projects and feel free to connect!
 <br>
 
 <h1 align="center"> :hammer_and_wrench: My Skillset </h1> 
- <div align="center"> 
+<div class="no-link" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" height="40" alt="androidstudio logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
@@ -62,7 +62,7 @@ Check out my projects and feel free to connect!
   <img width="12" />
 
 <br>
-   
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
@@ -81,7 +81,6 @@ Check out my projects and feel free to connect!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo" />
 </div>
-
 
 <br>
 <br>
