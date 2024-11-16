@@ -1,9 +1,17 @@
 ## Hello everyone , I'm Arda ᯅ
 
 <br>
-I am Arda and I am 18 years old. I am working on Backend Development and Test Automation Development.
+Hello, I’m Arda – a Backend Developer and automation enthusiast who loves to build and optimize systems.
 <br>
-I am passionate about the backend side. I have been doing research for about 4 years and I continue to stay up to date.
+For the past 4 years, I’ve been diving deep into backend development, testing, and automation tools.
+<br>
+I’m passionate about staying on top of the latest trends in technology and continuously improving my skills.
+<br>
+When I’m not coding, I’m probably researching new ways to solve problems or exploring new technologies.
+<br>
+Check out my repos, and let’s connect if you have an interesting project or just want to talk tech!
+<br>
+
 <br>
 <br>
 <br>
@@ -28,7 +36,7 @@ I am passionate about the backend side. I have been doing research for about 4 y
 <br>
 
 <p align="center">
-   <a href="https://git.io/streak-stats">
+   <a href="https://bit.ly/ardadasdelen">
    <img src="https://streak-stats.demolab.com?user=ardadasdelen&theme=transparent&border_radius=16&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500" alt="aarda github streaks" />
    </a>
 
@@ -55,6 +63,9 @@ I am passionate about the backend side. I have been doing research for about 4 y
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
+
+<br>
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
