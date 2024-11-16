@@ -1,35 +1,32 @@
 ## Hello everyone , I'm Arda ᯅ
 
 <br>
-Hello, I’m Arda – a Backend Developer and automation enthusiast who loves to build and optimize systems.
+Hi, I'm Arda! Backend Developer passionate about coding and automation.
 <br>
-For the past 4 years, I’ve been diving deep into backend development, testing, and automation tools.
+I love building scalable systems and continuously learning new technologies to improve my skills.
 <br>
-I’m passionate about staying on top of the latest trends in technology and continuously improving my skills.
-<br>
-When I’m not coding, I’m probably researching new ways to solve problems or exploring new technologies.
-<br>
-Check out my repos, and let’s connect if you have an interesting project or just want to talk tech!
+Check out my projects and feel free to connect!
 <br>
 
 <br>
 <br>
 <br>
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=su8ifhnt52og805ngstk1hcej&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=006ff6&bar_color_cover=false" alt="aarda spotify gitHub profile">
+  </a>
+</p>
+
+<br>
+
+<h1 align="center"> :chart_with_upwards_trend: My Stats </h1> 
 <p align="center">
   <a href="https://bit.ly/ardadasdelen">
     <img src="https://komarev.com/ghpvc/?username=ardadasdelen" alt="aarda profile views">
   </a> 
   <a href="https://bit.ly/ardadasdelen">
     <img src="https://wakatime.com/badge/user/a5a7e9a1-f323-41da-a78c-cef00e6d45a5.svg" alt="aarda waka times" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=su8ifhnt52og805ngstk1hcej&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=006ff6&bar_color_cover=false" alt="aarda spotify gitHub profile">
   </a>
 </p>
 
@@ -88,4 +85,5 @@ Check out my repos, and let’s connect if you have an interesting project or ju
 <br>
 <br>
 
+<h1 align="center"></h1> 
 <h3 align="center"> © 2025</h3>
