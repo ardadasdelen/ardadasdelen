@@ -34,7 +34,7 @@ Check out my projects and feel free to connect!
 
 <p align="center">
    <a href="https://bit.ly/ardadasdelen">
-   <img src="https://streak-stats.demolab.com?user=ardadasdelen&theme=transparent&border_radius=16&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500" alt="aarda github streaks" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent" alt="aarda github streaks" />
    </a>
 
 <br>
