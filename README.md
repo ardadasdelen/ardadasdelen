@@ -1,7 +1,7 @@
 <h1 align="center">Hello @everyone , I'm Arda ᯅ</h1>
 
 <p align="center">
-  <img src="https://" alt="Created with @canva">
+  <img src="https://raw.githubusercontent.com/ardadasdelen/ardadasdelen/refs/heads/main/0099-Photoroom.png" alt="Created with @canva">
 </p>
 
 
