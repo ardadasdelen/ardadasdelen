@@ -1,8 +1,19 @@
 <h1 align="center">Hello @everyone , I'm Arda ᯅ</h1>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ardadasdelen/ardadasdelen/refs/heads/main/0099-Photoroom.png" alt="Created with @canva" width="640" height="452">
+  <span style="color:#0366d6;">Arda is an individual with superior technical knowledge in the digital world, exhibiting impressive potential in the fields of cyber security, social engineering and software development. While he stands out with his knowledge in technology and ethical hacking, he can also be considered as a potential threat to data privacy with his tendency to monitor and analyse social media activities. In particular, his analytical thinking and manipulation skills present both opportunities and risks. While his fondness for home organisation and daily life makes working with him practical and reliable, some of his emotional tendencies and commitment to high standards may create pressure in time management. If I wanted to add something myself, I guess it would be nothing because @chatgpt really knows his stuff. Thank you for reading.
+<br>  
+<br>
+Age: 18
+<br>  
+Nationality : Türkiye 🇹🇷
+</span>
 </p>
+
+<!--<p align="center">
+  <img src="https://raw.githubusercontent.com/ardadasdelen/ardadasdelen/refs/heads/main/0099-Photoroom.png" alt="Created with @canva" width="640" height="452">
+</p>-->
 
 <br>
 <br>
