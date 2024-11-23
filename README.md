@@ -1,4 +1,4 @@
-## Hello everyone , I'm Arda ᯅ
+<h1 align="center">Hello @everyone , I'm Arda ᯅ</h1>
 
 <br>
 Hi, I'm Arda! Backend Developer passionate about coding and automation.
@@ -80,4 +80,4 @@ Check out my projects and feel free to connect!
 <br>
 
 <h1 align="center"></h1>
-<h3 align="center"> © 2025</h3>
+<p align="center">Created with a ❤️ inspired by AI © 2025</p>
