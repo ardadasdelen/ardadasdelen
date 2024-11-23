@@ -10,7 +10,6 @@ Check out my projects and feel free to connect!
 
 <br>
 <br>
-<br>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=su8ifhnt52og805ngstk1hcej&redirect=true">
@@ -65,14 +64,10 @@ Check out my projects and feel free to connect!
 <br>
 
 <h1 align="center"> :chart_with_upwards_trend: My Stats </h1>
-
-<br>
-
 <p align="center">
    <a href="https://bit.ly/ardadasdelen">
    <img src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent" alt="aarda github streaks" />
    </a>
-
 <p align="center">
   <a href="https://bit.ly/ardadasdelen">
     <img src="https://komarev.com/ghpvc/?username=ardadasdelen" alt="aarda profile views">
@@ -83,6 +78,6 @@ Check out my projects and feel free to connect!
 </p>
 
 <br>
-<br>
 
+<h1 align="center"></h1>
 <h3 align="center"> © 2025</h3>
