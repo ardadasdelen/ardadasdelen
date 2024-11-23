@@ -1,9 +1,8 @@
 <h1 align="center">Hello @everyone , I'm Arda ᯅ</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ardadasdelen/ardadasdelen/refs/heads/main/0099-Photoroom.png" alt="Created with @canva">
+  <img src="https://raw.githubusercontent.com/ardadasdelen/ardadasdelen/refs/heads/main/0099-Photoroom.png" alt="Created with @canva" width="640" height="452">
 </p>
-
 
 <br>
 <br>
@@ -61,14 +60,17 @@
 <br>
 
 <h1 align="center"> :chart_with_upwards_trend: My Stats </h1>
+
 <p align="center">
    <a href="https://bit.ly/ardadasdelen">
    <img src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent" alt="aarda github streaks" />
    </a>
+  
 <p align="center">
   <a href="https://bit.ly/ardadasdelen">
     <img src="https://komarev.com/ghpvc/?username=ardadasdelen" alt="aarda profile views">
   </a> 
+  
   <a href="https://bit.ly/ardadasdelen">
     <img src="https://wakatime.com/badge/user/a5a7e9a1-f323-41da-a78c-cef00e6d45a5.svg" alt="aarda waka times" />
   </a>
@@ -77,4 +79,5 @@
 <br>
 
 <h1 align="center"></h1>
+
 <p align="center">Created with a ❤️ inspired by AI © 2025</p>
