@@ -1,12 +1,9 @@
 <h1 align="center">Hello @everyone , I'm Arda ᯅ</h1>
 
-<br>
-Hi, I'm Arda! Backend Developer passionate about coding and automation.
-<br>
-I love building scalable systems and continuously learning new technologies to improve my skills.
-<br>
-Check out my projects and feel free to connect!
-<br>
+<p align="center">
+  <img src="https://" alt="Created with @canva">
+</p>
+
 
 <br>
 <br>
