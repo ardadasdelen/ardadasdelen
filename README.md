@@ -20,26 +20,6 @@ Check out my projects and feel free to connect!
 
 <br>
 
-<h1 align="center"> :chart_with_upwards_trend: My Stats </h1> 
-<p align="center">
-  <a href="https://bit.ly/ardadasdelen">
-    <img src="https://komarev.com/ghpvc/?username=ardadasdelen" alt="aarda profile views">
-  </a> 
-  <a href="https://bit.ly/ardadasdelen">
-    <img src="https://wakatime.com/badge/user/a5a7e9a1-f323-41da-a78c-cef00e6d45a5.svg" alt="aarda waka times" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-   <a href="https://bit.ly/ardadasdelen">
-   <img src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent" alt="aarda github streaks" />
-   </a>
-
-<br>
-<br>
-
 <h1 align="center"> :hammer_and_wrench: My Skillset </h1> 
 <div class="no-link" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" height="40" alt="androidstudio logo" />
@@ -83,7 +63,26 @@ Check out my projects and feel free to connect!
 </div>
 
 <br>
+
+<h1 align="center"> :chart_with_upwards_trend: My Stats </h1>
+
 <br>
 
-<h1 align="center"></h1> 
+<p align="center">
+   <a href="https://bit.ly/ardadasdelen">
+   <img src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent" alt="aarda github streaks" />
+   </a>
+
+<p align="center">
+  <a href="https://bit.ly/ardadasdelen">
+    <img src="https://komarev.com/ghpvc/?username=ardadasdelen" alt="aarda profile views">
+  </a> 
+  <a href="https://bit.ly/ardadasdelen">
+    <img src="https://wakatime.com/badge/user/a5a7e9a1-f323-41da-a78c-cef00e6d45a5.svg" alt="aarda waka times" />
+  </a>
+</p>
+
+<br>
+<br>
+
 <h3 align="center"> © 2025</h3>
