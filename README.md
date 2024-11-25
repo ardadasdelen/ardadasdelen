@@ -11,7 +11,7 @@ aarda ᯅ is an individual with superior technical knowledge in the digital worl
 <br>
 Age: 18
 <br>  
-Nationality : Türkiye 🇹🇷
+Country : Türkiye 🇹🇷
 </p>
 
 <!--<p align="center">
