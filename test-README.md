@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">
+  Hello @everyone , I'm Arda ᯅ
+</h1>
 
 ###
 
