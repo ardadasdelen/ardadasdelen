@@ -12,26 +12,8 @@
 </p>
 
 <br>
-
-<p align="center">
-   <a href="https://bit.ly/ardadasdelen">
-   <img src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent" alt="aarda github streaks" />
-   </a>
   
-<p align="center">
+<p align="">
   <a href="https://bit.ly/ardadasdelen">
     <img src="https://komarev.com/ghpvc/?username=ardadasdelen" alt="aarda profile views">
   </a> 
-  
-  <a href="https://bit.ly/ardadasdelen">
-    <img src="https://wakatime.com/badge/user/a5a7e9a1-f323-41da-a78c-cef00e6d45a5.svg" alt="aarda waka times" />
-  </a>
-</p>
-
-<h1 align="center"></h1>
-
-<p align="center">
-  Created with a ❤️ inspired by AI © 2025
-</p>
-
-<br>
