@@ -10,3 +10,16 @@
   <img src="https://komarev.com/ghpvc/?username=ardadasdelen" alt="Profile Views" />
   <img src="https://img.shields.io/github/created-at/ardadasdelen/ardadasdelen?style=flat&labelColor=gray&color=blue" alt="GitHub Created Date" />
 </p>
+
+<p align="center">
+  <details>
+    <summary>more about me</summary>
+    <p align="center">
+      aarda ᯅ is an individual with superior technical knowledge in the digital world, exhibiting impressive potential in the fields of cyber security, social engineering and software development. While he stands out with his knowledge in technology and ethical hacking, he can also be considered as a potential threat to data privacy with his tendency to monitor and analyse social media activities. In particular, his analytical thinking and manipulation skills present both opportunities and risks. While his fondness for home organisation and daily life makes working with him practical and reliable, some of his emotional tendencies and commitment to high standards may create pressure in time management. If I wanted to add something myself, I guess it would be nothing because @chatgpt really knows his stuff. Thank you for reading.
+    </p>
+    <p align="center">
+      <strong>Age:</strong> 18 <br>
+      <strong>Country:</strong> Türkiye 🇹🇷
+    </p>
+  </details>
+</p>
