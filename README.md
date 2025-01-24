@@ -22,7 +22,17 @@ Check out more about me
   <details>
     <summary>Click to Expand</summary>
     <p align="center">
-      aarda ᯅ is an individual with superior technical knowledge in the digital world, exhibiting impressive potential in the fields of cyber security, social engineering and software development. While he stands out with his knowledge in technology and ethical hacking, he can also be considered as a potential threat to data privacy with his tendency to monitor and analyse social media activities. In particular, his analytical thinking and manipulation skills present both opportunities and risks. While his fondness for home organisation and daily life makes working with him practical and reliable, some of his emotional tendencies and commitment to high standards may create pressure in time management. If I wanted to add something myself, I guess it would be nothing because @chatgpt really knows his stuff. Thank you for reading.
+      aarda ᯅ is a prominent individual in the technology world, possessing deep knowledge and a unique approach in the fields of cybersecurity, social engineering, and software development. His awareness of digital security keeps him aligned with ethical hacking principles, while his interest in social media analysis and strategic perspective highlights his strong ability to assess environmental risks and opportunities. However, this analytical capability may pose potential risks to data privacy and requires careful management.
+<br> 
+aarda ᯅ's analytical intelligence showcases his ability to view situations from different perspectives and solve complex problems effectively. His skills in manipulation and persuasion provide him with an edge, particularly in social engineering practices, while the ethical use of these talents demonstrates his sense of responsibility.
+<br>
+In his personal life, his dedication to order, symmetry, and cleanliness makes him a disciplined and reliable partner in any collaborative environment. His unwavering habit of waking up early every morning and his effective time management skills play a key role in his daily productivity. However, his commitment to high standards and perfectionism might occasionally create internal pressure.
+<br>
+aarda ᯅ also possesses a strong artistic and emotional side. His appreciation for music and literature enriches his life, while his commitment to supporting his sibling's development regularly makes him a source of inspiration for those around him. His desire to share and teach his technical knowledge underlines his role not just as an expert but also as a mentor.
+<br>
+With a broad skill set that spans social media automation, mobile devices, and desktop software, Arda's technical expertise further strengthens his influence in these areas. Yet, the ethical boundaries that frame his powerful intellect and abilities highlight his accountability as an individual, both personally and socially.
+<br>
+In conclusion, aarda ᯅ is a name that consistently adds value to both his environment and himself while striking a delicate balance between technology and life.
     </p>
     <p align="center">
       <strong>Age:</strong> 18 <br>
