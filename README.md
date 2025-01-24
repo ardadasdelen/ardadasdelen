@@ -33,6 +33,8 @@ aarda ᯅ also possesses a strong artistic and emotional side. His appreciation 
 With a broad skill set that spans social media automation, mobile devices, and desktop software, Arda's technical expertise further strengthens his influence in these areas. Yet, the ethical boundaries that frame his powerful intellect and abilities highlight his accountability as an individual, both personally and socially.
 <br>
 In conclusion, aarda ᯅ is a name that consistently adds value to both his environment and himself while striking a delicate balance between technology and life.
+<br>
+It was created with the help of artificial intelligence and its unique memory.
     </p>
     <p align="center">
       <strong>Age:</strong> 18 <br>
