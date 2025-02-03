@@ -15,6 +15,16 @@
 
 <br>
 
+
+
+<p align="center">
+   <a href="https://bit.ly/ardadasdelen">
+   <img src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent" alt="aarda github streaks" />
+   </a>
+
+
+
+
 <h3 align="center">
 Check out more about me
 </h3>
