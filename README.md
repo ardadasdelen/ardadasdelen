@@ -15,14 +15,6 @@
 
 <br>
 
-
-
-| <a href="https://github.com/anuraghazra/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ardadasdelen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="aarda's github stats" /></a> | <a href="https://github.com/ardadasdelen/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardadasdelen&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
-
 <h3 align="center">
 Check out more about me
 </h3>
