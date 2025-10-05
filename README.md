@@ -47,7 +47,7 @@ In conclusion, aarda ᯅ is a name that consistently adds value to both his envi
 It was created with the help of artificial intelligence and its unique memory.
     </p>
     <p align="center">
-      <strong>Age:</strong> 18,7 <br>
+      <strong>Age:</strong>19,3<br>
       <strong>Country:</strong> Türkiye 🇹🇷
     </p>
   </details>
