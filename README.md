@@ -23,10 +23,6 @@
    </a>
 
 <h3 align="center">
-Currently here: university student
-</h3>
-
-<h3 align="center">
 Check out more about me
 </h3>
 <div align="center">
