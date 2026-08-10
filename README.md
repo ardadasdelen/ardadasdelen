@@ -1,5 +1,7 @@
+
+
 <h2 align="center">
-  hello everyone, ı am Arda.
+  hello everyone, I am Arda.
 </h2>
 
 <br>
